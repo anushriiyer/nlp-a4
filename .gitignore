@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+checkpoints/
+out/
+out_augmented/
+wandb/
